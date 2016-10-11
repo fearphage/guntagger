@@ -42,6 +42,14 @@ or install only the browser version with Bower
 ```
 bower install guntagger
 ```
+and then 
+```
+<script src="bower_components/guntagger/guntagger.min.js"></script>
+```
+
+### Yeah Polymer
+I like Polymer and so guntagger also comes as a polymer element. You do need the polymer element for gun also
+....have to publish that first...dangit
 ### API
 Three methods are exposed for your gun instances:
 
