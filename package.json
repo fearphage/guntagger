@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "guntagger",
+        "scope": null,
+        "escapedName": "guntagger",
+        "name": "guntagger",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "d:\\PROJECTS\\guil\\nodemodules"
+    ]
+  ],
+  "_from": "guntagger@latest",
+  "_id": "guntagger@4.0.1",
+  "_inCache": true,
+  "_location": "/guntagger",
+  "_nodeVersion": "4.4.5",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/guntagger-4.0.1.tgz_1476135156889_0.27990302280522883"
+  },
+  "_npmUser": {
+    "name": "stefdv2",
+    "email": "stefdv2@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "guntagger",
+    "scope": null,
+    "escapedName": "guntagger",
+    "name": "guntagger",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/guntagger/-/guntagger-4.0.1.tgz",
+  "_shasum": "e11fa737c00afdbac2421bc4dcf35fe2f86aa8ca",
+  "_shrinkwrap": null,
+  "_spec": "guntagger",
+  "_where": "d:\\PROJECTS\\guil\\nodemodules",
+  "author": {
+    "name": "S.J.J. de Vries",
+    "url": " Stefdv"
+  },
+  "dependencies": {},
+  "description": "tagging system for gunDB",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e11fa737c00afdbac2421bc4dcf35fe2f86aa8ca",
+    "tarball": "https://registry.npmjs.org/guntagger/-/guntagger-4.0.1.tgz"
+  },
+  "keywords": [
+    "gunDB",
+    "tag",
+    "tagging",
+    "label",
+    "labels",
+    "collection",
+    "collections"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "stefdv2",
+      "email": "stefdv2@gmail.com"
+    }
+  ],
+  "name": "guntagger",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.1"
+}
