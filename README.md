@@ -38,6 +38,10 @@ For the browser, it's much simpler, since your version of gun is exported as a g
 <script src="node_modules/guntagger/guntagger.min.js"></script>
 <!-- all done! -->
 ```
+or install only the browser version with Bower
+```
+bower install guntagger
+```
 ### API
 Three methods are exposed for your gun instances:
 
